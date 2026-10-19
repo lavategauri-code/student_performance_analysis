@@ -32,6 +32,3 @@ Files
 
 Tools
 - Python, pandas, matplotlib, seaborn, Jupyter in VS Code
-
-About me
-[Gauri Lavate] | [lavategauri@gmail.com]
